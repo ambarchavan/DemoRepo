@@ -1,0 +1,22 @@
+{
+  "name": "DemoFramework",
+  "version": "0.1.0",
+  "summary": "A short description of DemoFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chavanambar@gmail.com/DemoFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chavanambar@gmail.com": "chavan.amber@siliconstack.com.au"
+  },
+  "source": {
+    "git": "https://github.com/chavanambar@gmail.com/DemoFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoFramework/Classes/**/*"
+}
